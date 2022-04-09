@@ -157,9 +157,9 @@ The user’s profile page should update to include the recently verified fact.
 
 
 As a regular user, I should be able to view a rotating selection of facts, so that I can choose to entertain myself with unfamiliar snippets of info.
-When the app is opened a display of facts should appear.
+When the app is opened, a display of facts should appear.
 The client should be able to interact with the app by clicking on an arrow to the right side of the screen to see different facts appear.
-The most recent displayed facts should be stored and reviewable if the user decided to click an arrow on the left side of the screen.
+The most recent displayed facts should be stored and reviewable if the user decides to click an arrow on the left side of the screen.
 On the card displaying the fact, there should be a reference to a source also submitted by the user.
 The cards displayed should have the capability of being interactive by allowing the client to see other cards that share similarities with it. 
 
@@ -201,10 +201,10 @@ Don't forget to give the project a star! Thanks again!
 <!-- CONTACT -->
 ## Contact
 
-Javed Usman [(ujaved1@student.gsu.edu)](mailto:ujaved1@student.gsu.edu)
-Phan Henry [(hphan19@student.gsu.edu)](mailto:hphan19@student.gsu.edu)
-Uga Christopher [(cuga1@student.gsu.edu)](mailto:cuga1@student.gsu.edu)
-Yen Andrew [(ayen4@student.gsu.edu)](mailto:ayen4@student.gsu.edu)
+Javed, Usman [(ujaved1@student.gsu.edu)](mailto:ujaved1@student.gsu.edu)
+Phan, Henry [(hphan19@student.gsu.edu)](mailto:hphan19@student.gsu.edu)
+Uga, Christopher [(cuga1@student.gsu.edu)](mailto:cuga1@student.gsu.edu)
+Yen, Andrew [(ayen4@student.gsu.edu)](mailto:ayen4@student.gsu.edu)
 
 Project Link: [https://github.com/chrisuga/group-12-final-project](https://github.com/chrisuga/group-12-final-project)
 
